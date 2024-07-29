@@ -1,4 +1,4 @@
-# 👩🏻 Site da Ada Lovelace
+# <p align="center">👩🏻📜 Site da Ada Lovelace
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/haaveeni/siteDaAdaLovelace?color=%23b21104">
@@ -21,7 +21,15 @@
 ## 💻 Sobre o projeto
 
 Projeto desenvolvido durante o curso Eu Programo Front End I - Meu primeiro site, em agosto de 2022 no <a href="https://replit.com/@VeriL">Replit.com</a> e recuperado para o GitHub.<br/>
-Projeto feito em HTML, CSS e JS, que conta a história da primeira pessoa programadora da história, a Ada Lovelace, usando menu para seções, lista de links para o Wikipedia de outras mulheres importantes da história da programação, além de um formulário para um newsletter.
+Projeto feito em HTML, CSS e JS, que conta a história da primeira pessoa programadora da história, a Ada Lovelace, usando menu para seções, lista de links para o Wikipedia de outras mulheres importantes da história da programação, além de um formulário para um newsletter.<br/><br/>
+### Principais conceitos abordados:
+<ul>
+	<li>Menu de navegação</li>
+	<li>Seção, ID, Classe</li>
+	<li>Formulário</li>
+	<li>EventListener, função e alert</li>
+	<li>Estilização CSS</li>
+</ul>
 
 ---
 
@@ -73,6 +81,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href = "https://developer.mozilla.org/en-US/docs/Web/HTML"><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
 <a href = "https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
 <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
+
+---
+
+## 🤝 Agradecimentos
+Agradeço a <a href="https://github.com/programaria">Programaria💜💻</a>, por ter um curso introdutório tão didático, feito com muito carinho, e ter um módulo inteirinho sobre motivar mulheres na área de tecnologia.
 
 ---
 
