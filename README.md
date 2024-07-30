@@ -61,7 +61,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 $ git clone git@github.com:haaveeni/siteDaAdaLovelace.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd haaveeni/siteDaAdaLovelace
+$ cd siteDaAdaLovelace
 
 # Instale as dependências
 $ npm i
